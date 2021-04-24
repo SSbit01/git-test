@@ -1,1 +1,1 @@
-Testing
+This is SSbit01’s first git project!
